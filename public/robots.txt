@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ores-uni-threads.github.io/sitemap.xml
